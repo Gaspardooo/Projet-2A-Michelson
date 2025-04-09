@@ -12,3 +12,4 @@ Le projet nécessite Python 3 et les bibliothèques suivantes :
 - `matplotlib`
 - `numpy`
 - `scipy`
+- `cv2`
